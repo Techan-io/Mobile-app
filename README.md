@@ -1,2 +1,2 @@
-# Mobile-apps
-Repository for all Techan mobile apps
+# Techan mobile app
+Repository for Techan mobile app
